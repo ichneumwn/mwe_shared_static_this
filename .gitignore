@@ -1,0 +1,5 @@
+# files/directories to be ignored
+
+# build directory
+__build__/
+
